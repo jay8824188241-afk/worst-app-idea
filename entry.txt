@@ -1,0 +1,1 @@
+QueueBuddy is a ten-dollar-a-month app that hires a stranger to stand in line for you, then livestreams them waiting and sends a push alert every time they shuffle forward one step.
